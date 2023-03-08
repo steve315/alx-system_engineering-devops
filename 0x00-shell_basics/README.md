@@ -21,4 +21,5 @@ bash Script files
 100-lets_move - Moves all files beginning with an uppercase letter to the directory /tmp/u
 101-clean_emacs - Deletes all files in the current working directory that end with the character ~
 102-tree - creates the directories welcome/, welcome/to/ and welcome/to/school 
-
+103-commas - lists files in current working dir separated by commas
+school.mgc  - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.

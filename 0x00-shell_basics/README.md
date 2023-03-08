@@ -18,4 +18,5 @@ bash Script files
 12-file_type - prints the type of file named iamafile in /tmp dir
 13-symbolic_link - Creates a symbolic link to /bin/ls named __ls__. in curr dir
 14-copy_html - copies *html * from cur dir to the parent dir of the working dir
+100-lets_move - moves all files beginning with an uppercase letter to the directory /tmp/u
 

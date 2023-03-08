@@ -8,4 +8,5 @@ bash Script files
 4-listmorefiles - Display current directory contents, including hidden files
 5-listfilesdigitonly - Display current directory contents: long format
 					user and goup IDs numerically
-					Include hidden files. 
+					Include hidden files.
+6-firstdirectory - Creates a directory in /tmp/ directory 

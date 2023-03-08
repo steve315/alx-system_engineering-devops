@@ -14,4 +14,5 @@ bash Script files
 8-firstdelete - Deletes the file betty
 9-firstdirdeletion - Deletes the directory my_first_directory
 10-back - Changes the working directory to the previous one
-11-lists - Lists all files in current, parent and the /boot directories  
+11-lists - Lists all files in current, parent and the /boot directories
+12-file_type - prints the type of file named iamafile in /tmp dir  

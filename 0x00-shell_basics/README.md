@@ -9,4 +9,5 @@ bash Script files
 5-listfilesdigitonly - Display current directory contents: long format
 					user and goup IDs numerically
 					Include hidden files.
-6-firstdirectory - Creates a directory in /tmp/ directory 
+6-firstdirectory - Creates a directory in /tmp/ directory
+7-movethatfile - Moves the file betty from tmp to /tmp/my_first_directory 

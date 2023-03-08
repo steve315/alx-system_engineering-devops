@@ -13,4 +13,5 @@ bash Script files
 7-movethatfile - Moves the file betty from tmp to /tmp/my_first_directory
 8-firstdelete - Deletes the file betty
 9-firstdirdeletion - Deletes the directory my_first_directory
-10-back - Changes the working directory to the previous one  
+10-back - Changes the working directory to the previous one
+11-lists - Lists all files in current, parent and the /boot directories  

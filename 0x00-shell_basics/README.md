@@ -17,6 +17,6 @@ bash Script files
 11-lists - Lists all files in current, parent and the /boot directories
 12-file_type - prints the type of file named iamafile in /tmp dir
 13-symbolic_link - Creates a symbolic link to /bin/ls named __ls__. in curr dir
-14-copy_html - copies *html * from cur dir to the parent dir of the working dir
-100-lets_move - moves all files beginning with an uppercase letter to the directory /tmp/u
-
+14-copy_html - Copies *html * from cur dir to the parent dir of the working dir
+100-lets_move - Moves all files beginning with an uppercase letter to the directory /tmp/u
+101-clean_emacs - Deletes all files in the current working directory that end with the character ~

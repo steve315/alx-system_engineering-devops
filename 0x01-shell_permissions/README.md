@@ -11,4 +11,6 @@ Descriptions Bash Script
 8. 7-everybody - addsnexecution permission to u, g and o to the file hello
 9. 8-James_Bond - sets permission for hello u = 0, g = 0, o = 7 
 10. 9-John_Doe - sets the mode of the file hello too -rwxr-x-wx
+11. 10-mirror_permissions - sets the mode of the file hello the same as olleh’s mod	e.
+12. 11-directories_permissions - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 
